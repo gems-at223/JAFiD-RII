@@ -1,1 +1,1 @@
-'''JAX-Accelerated Finite Differences for Reactive Infiltration Dynamics'''
+*JAX-Accelerated Finite Differences for Reactive Infiltration Dynamics*
